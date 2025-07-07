@@ -1,4 +1,4 @@
-```markdown
+
 # 🎥 Discord Screen & Audio Recording Bot
 
 A lightweight and efficient Discord bot to record your **desktop screen and system audio** with simple bot commands.
